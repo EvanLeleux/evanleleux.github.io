@@ -1,0 +1,19 @@
+name: My Personal Website
+description: A personal website
+meta_description: "A collection of my personal projects and experiences"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: ""
+domain_name: "http://evanleleux.github.io"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "Evan Leleux"
+
+# Disqus config
+disqus-shortname: ""
