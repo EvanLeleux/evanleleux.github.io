@@ -12,4 +12,4 @@ Currently, I am getting more involved in my campus life as the pandemic starts t
 Please email me at <a href="mailto:leleuxev@gmail.com?Subject=" target="_top">leleuxev@gmail.com</a> for any requests for information or general inquiries. Thank you!
 
 <h3> Current Resume </h3>
-<iframe src="{{'assets/files/Engineering-Resume-Evan-Leleux.pdf' | relative_url}}" width="800" height="1100" />
+<iframe src="{{'assets/files/Engineering-Resume-Evan-Leleux-Edit.pdf' | relative_url}}" width="800" height="1100" />
