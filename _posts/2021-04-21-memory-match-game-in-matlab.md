@@ -9,4 +9,4 @@ Created a Memory-Match Style game in Matlab complete with start, end, and restar
 
 Learned MATLAB GUIs, state machines, randomization, and a little animation.
 
-<img src="{{'/assets/images/MemoryMatchDemo.gif' | relative_url}}" alt="Memory Match"/>
+<img src="https://media.githubusercontent.com/media/EvanLeleux/evanleleux.github.io/main/assets/images/MemoryMatchDemo.gif" alt="Memory Match"/>
