@@ -9,4 +9,4 @@ Created a Battleship Command line game using Java. Two players first set out 5 1
 
 Learned about Java loops, conditionals, separate Object classes, and user input.
 
-<img src="{{'/assets/images/BattleshipGame.gif' | relative_url}}" />
+<img src="https://github.com/EvanLeleux/evanleleux.github.io/blob/b98a89fd159b967a9fc1ccdcc7a106c6729688ff/assets/images/BattleshipGame.gif" />

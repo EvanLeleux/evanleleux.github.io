@@ -16,4 +16,4 @@ I am a part of a Vertically Integrated Project (ViP) that researches "Low Cost A
 <img src="{{'/assets/images/MicroSpine3.jpg' | relative_url}}" />
 
 <h4> Winch Test </h4>
-<img src="{{'/assets/images/ViPFinal.gif' | relative_url}}" />
+<img src="https://github.com/EvanLeleux/evanleleux.github.io/blob/24742930561a281585a9ec36d26fd7747483d5bb/assets/images/ViPFinal.gif" />
