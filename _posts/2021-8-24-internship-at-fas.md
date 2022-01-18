@@ -5,7 +5,7 @@ date:   2021-8-24 00:00:00
 categories: Internship GaTech Engineer
 ---
 
-I interned as an engineer at local company that specializes in automating manufacturing processes for a number of Fortune 500 companies. Mainly focusing on the control systems, I set up and programmed PLCs (Programmable Logic Controllers) to work with a wide range of sensors and output to solenoid valves, relays, servos, and more. 
+I recentlly interned as an engineer at local company (Factory Automation Systems) that specializes in automating manufacturing processes for a number of Fortune 500 companies. My time was mainly focused on control systems and panel design. I set up and programmed PLCs to work with a wide range of sensors and output to solenoid valves, relays, and servos. 
 
-I was required to quickly learn how to read engineering drawings, check the panels against the drawings, make sure safety requirements were met, and collaborate with a range of other engineers. In my downtime, I made use of the company's wide array of training videos and learned as much as I could about real-world engineering.
+Quickly learning how to read engineering drawings, checking panels against drawings, making sure safety requirements were met, and collaborating with a wide range of other engineers were essential to be successful. In my downtime, I made use of the company's wide array of training videos and projects to make sure I never stopped learning.
 
