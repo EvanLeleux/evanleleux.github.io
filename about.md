@@ -12,4 +12,4 @@ Currently, I am getting more involved in my campus life as a Prototype Instructo
 Please email me at <a href="mailto:leleuxev@gmail.com?Subject=" target="_top">leleuxev@gmail.com</a> for any requests for information or general inquiries. Thank you!
 
 <h3> Current Resume </h3>
-<iframe src="{{'assets/files/Short-CS-Resume-Evan-Leleux.pdf' | relative_url}}" width="800" height="1100" />
+<iframe src="{{'assets/files/1-18-CS-Resume-Evan-Leleux.pdf' | relative_url}}" width="800" height="1100" />
