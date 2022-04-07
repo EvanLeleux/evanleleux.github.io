@@ -2,7 +2,7 @@
 layout: post
 title:  "Internship at FAS"
 date:   2021-8-24 00:00:00
-categories: Internship GaTech Engineer
+categories: Internship
 ---
 
 I recentlly interned as an engineer at local company (Factory Automation Systems) that specializes in automating manufacturing processes for a number of Fortune 500 companies. My time was mainly focused on control systems and panel design. I set up and programmed PLCs to work with a wide range of sensors and output to solenoid valves, relays, and servos. 

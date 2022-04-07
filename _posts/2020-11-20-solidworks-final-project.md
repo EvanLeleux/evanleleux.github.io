@@ -2,7 +2,7 @@
 layout: post
 title:  "SOLIDWORKS Team Project"
 date:   2020-11-20 00:00:00
-categories: SOLIDWORKS GaTech
+categories: Class-Project SOLIDWORKS
 ---
 
 My team decided to create an outerspace rover that would serve as a mobile home base for any futuristic space explorer. The "Juggernaut" has a workspace in the back with an extendable ramp, an airlocked living quarters, and a rotating driving cabin. The wheels and rotating cabin allow the vehicle to remain completely operational even in the event it is flipped over. The wheels are also divided into separate sections that can extend using hydralics. This allows for navigation over extremely rough and arduous terrain.

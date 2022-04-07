@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning Glove"
 date:   2022-1-07 00:00:00
-categories: Personal-Project Machine-Learning Arduino
+categories: Personal-Project Arduino
 ---
 
 As a personal project to get a little look into machine learning and algorithms, I decided to create a device that would eventually be attached to a glove, recognize gestures the wearer made, and do an action based off that gesture. 
